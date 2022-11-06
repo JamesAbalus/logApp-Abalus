@@ -48,7 +48,7 @@ This COVID Tracer Application uses phpMyAdmin as its database. PhpMyAdmin is an 
 XAMPP is vital for phpMyAdmin to work <br><br>
 XAMPP has the ability to serve web pages on the World Wide Web. A special tool is provided to password-protect the most important parts of the package. XAMPP also provides support for creating and manipulating databases in MariaDB and SQLite, among others. <br><br>                 
                 
-
+> ## Step Two
 **Install **Apache**, **PHP**, and **MySQL**<br><br>
 Apache, PHP, and MySQL must all be installed and configured on your computer before you can install phpMyAdmin in this way.<br><br>
 
