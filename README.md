@@ -39,9 +39,7 @@ In here, you will see what the page look like. Here are the features of this app
 
 ## Installation of phpMyAdmin
                  
-This COVID Tracer Application uses phpMyAdmin as its database. PhpMyAdmin is an open source tool where you can administer your MariaDB database(s). It is pre-installed with your web hosting subscription. In phpMyAdmin you can, import, export, optimize or drop tables. If your website is using a database, this is where all the data of your site is stored.
-                 
-**Installation** - consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to use your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add aRequirements subsection.                                           
+This COVID Tracer Application uses phpMyAdmin as its database. PhpMyAdmin is an open source tool where you can administer your MariaDB database(s). It is pre-installed with your web hosting subscription. In phpMyAdmin you can, import, export, optimize or drop tables. If your website is using a database, this is where all the data of your site is stored.   
 
 > ## Step One      
 **Install **XAMPP** <br><br>
@@ -69,4 +67,4 @@ PHP is mostly used for making web servers. It runs on the browser and is also ca
 ![xampp](img/7.jpg)  <br>
                  
 <h2 align="left"> JAMES RODOLFO L. ABALUS </h2>
-He is the author of this repository and this logApp.<br> He is studying Computer Science at Palawan State University.<br> Lives at Puerto Princesa City, Palawan, Philippines 5300.<br> Loves to go and adventure places.<br> Dreams of travelling the world. 
+He is the author of this repository and this logApp.<br> He is studying Computer Science at Palawan State University.<br> Lives at Puerto Princesa City, Palawan, Philippines 5300.<br><br> **Contact Number: 09063430592<br><br> **Email: 202080505@psu.palawan.edu.ph / jamesabalus20@gmail.com
